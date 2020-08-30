@@ -1,24 +1,25 @@
-# Dice-game-Project
+# Tic-Tac-Toe-Game
 
-Dice game project is an website template related to playing online games.
+Tic Tac Toe game is fully functional game developed by using pure jQuery.
 
 ## Developed With:
 
 * HTML.
 * CSS.
 * JS.
+* jQuery.
 
 ## Silent Features:
 
+* Easy to develop.
+* Unique,modern,minimal and dynamic.
 * Easy logic.
-* Unique and dynamic project.
-
-## Important JS Functions and Methods used:
-
-* Math.random(): (https://www.w3schools.com/js/js_random.asp).
-* Math.floor(): (https://www.w3schools.com/jsref/jsref_floor.asp).
+* Attractive UI.
+* Short code.
 
 ## Project Preview:
 
 (https://hamzaashfaq01.github.io/tic-tac-toe-project/).
+
+
 
