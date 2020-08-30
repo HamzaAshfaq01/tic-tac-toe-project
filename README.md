@@ -20,6 +20,5 @@ Dice game project is an website template related to playing online games.
 
 ## Project Preview:
 
-(https://dice-game-app-js.herokuapp.com/).
+(https://hamzaashfaq01.github.io/tic-tac-toe-project/).
 
-# Please rename the file "index.php" to "index.html" to use or run it.
